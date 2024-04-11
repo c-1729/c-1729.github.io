@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second year postgraduate student from [School of CSE](https://eecs.pku.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/). My research interest includes computer vision, and machine learning.
 
-[Email](chenyk29@mail2.sysu.edu.cn) 
+[Email](mailto:chenyk29@mail2.sysu.edu.cn) 
 
 A data-driven personal website
 ======
